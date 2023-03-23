@@ -17,3 +17,25 @@ Identity management, ability to extend the solution using IBC and reducing misin
 
 Waves analytics tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, incident severity analysis based on the decentralize voting at the IBC chain.
 
+# Blockchain Eco-system
+
+# Wave blockchain Modules
+
+- Waves Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions & https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/car-parts-transactions (vehicle parts verification and replacement)
+
+- Waves blockchain sync with incident database: - Waves Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions 
+
+- Auction dapp in Waves for petrol vehicles older than 15 years & Diesel vehicles older than 10 years: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Waves-Modules/auction-older-vehicles
+
+- Waves Wallet dapp for second hand purchase of vehicles: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Waves-Modules/wallet-purchase-second-hand-vehicles
+
+- Bank credit dApp for Vehicle Insurance, Service & Repair using Waves: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Waves-Modules/bank-Credit-vehicle-insurance-service
+
+# Learning
+
+- Bootstrapping Waves Blockchain modules in golang: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication/waves-bootstrap-dev-go
+
+
+- DAOs tracker tool for road incident management: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/daos-tracker-java
+
+
