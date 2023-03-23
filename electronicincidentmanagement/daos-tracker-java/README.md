@@ -1,0 +1,17 @@
+# DAO Tracker Tool for De-Transport Monitor 
+
+```json
+{
+  "name": "My governance name",
+  "link": "https://my.governance/",
+  "logo": "https://my.logo/",
+  "socials": {
+    "discord": "https://discord.gg/_id",
+    "github": "https://github.com/_id",
+    "twitter": "https://twitter.com/_id",
+    "telegram": "https://t.me/_id",
+    "website": "https://my.website/"
+  }
+}
+```
+
