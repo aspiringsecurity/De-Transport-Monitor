@@ -1,11 +1,11 @@
-# De-Transport-Monitor using Cardano Blockchain and Waves Protocol
+# De-Transport-Monitor using Waves Protocol
 
 Effective design, engineering, and delivery of blockchain technology-aided solutions for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation.
 
 
-Cardano, Waves, Rider Smart Contracts, Signer and IBC: We are using Cardano, Waves, Rider Smart Contracts, and Signer for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
+Waves, Rider Smart Contracts, Signer and IBC: We are using Waves, Rider Smart Contracts, and Signer for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
 
-Cardano and Waves enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front.
+Waves enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front.
 
 IBC interoperability with Ethereum-like blockchains. Also, the ability to use decentralized NFT voting for incident investigative systems.
 
@@ -19,7 +19,6 @@ Waves analytics tooling: investigative case management and incident reporting, i
 
 # Blockchain Eco-system
 
-# Cardano Blockchain Modules
 
 # Wave blockchain Modules
 
