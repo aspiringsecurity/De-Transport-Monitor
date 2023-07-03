@@ -1,5 +1,5 @@
-# Plutus use cases
+# Cardano Modules
 
-This package contains a number of worked use cases as Plutus Applications.
+We are extending the plutus us-cases for interacting with cardano calc (analytics and aggregator tooling for De-Transport Monitor).
 
 Source for the applications can be found in the `src` folder, and tests in `test`.
