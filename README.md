@@ -19,6 +19,12 @@ Cardano analytics and aggregator tooling: investigative case management and inci
 
 # Blockchain Eco-system
 
+# Cardano blockchain Modules
+
+Cardano Blockchain Modules with aggregator and analytics tooling (Cardano Calc): https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Cardano-Modules
+
+Cardano Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module: Please visit https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Cardano-Modules/Cardano-Calc-Aggregator-Analytics.
+
 
 # Wave blockchain Modules
 
