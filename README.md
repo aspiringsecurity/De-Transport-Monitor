@@ -2,6 +2,12 @@
 
 Onyx Transport DAO is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner.
 
+Presentation and Demos: https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
+
+Website: https://sites.google.com/view/onyx-transport-dao/home
+
+zksync Era deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
+
 Features:
 
 360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
@@ -52,7 +58,7 @@ details. All of this will be recorded in central investigative case management s
 
 Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
 
-zksync Paymasters, Onyx and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front.
+zksync Paymasters, Onyx and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front. 
 
 Offchain interoperability with Ethereum-like blockchains. Also, the ability to use decentralized NFT voting for incident investigative systems.
 
@@ -115,6 +121,8 @@ We also plan to integrate QuickSwap with wallet to ensure that the vehicle owner
 - DAOs tracker tool for road incident management: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement
 
 - Account Abstraction plugins for Transport DAO using zksync Era: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
+
+  zksync era deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
 
 Implementation areas of Account Abstraction plugins in Onyx Transport DAO: 
 
