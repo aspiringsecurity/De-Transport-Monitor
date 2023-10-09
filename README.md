@@ -63,7 +63,7 @@ Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) 
 
 - Alarm Viewer dapp using Magic SDK module:  Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. Web3 template for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock.
 
-# Onyx and Biconomy blockchain Modules and Web3 ecosystem tools
+# Onyx and Biconomy blockchain Modules & Web3 ecosystem tools
 
 - Auction dapp for petrol vehicles older than 15 years & Diesel vehicles older than 10 years: https://github.com/aspiringsecurity/De-Transport-Monitor/blob/main/Transport-DI-Onyx-Web3-Modules/auction-older-vehicles/readme.md  
 
