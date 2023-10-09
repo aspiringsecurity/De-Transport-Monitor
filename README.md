@@ -25,30 +25,42 @@ Onyx Blockchain Modules with aggregator and analytics tooling (Onyx Calc) for ta
 
 Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module: Please visit 
 
-# Onyx and Biconomy blockchain Modules
+# Onyx and Biconomy blockchain Modules and Web3 ecosystem tools
 
 - Onyx  Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions & https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/car-parts-transactions (vehicle parts verification and replacement)
 
 - Onyx and Biconomy blockchain sync with incident database: - zksync Era Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions
 
-  # Biconomy and Onyx blockchain module
+  # Biconomy, Onyx blockchain module and Web3 ecosystem tools
 
-- Auction dapp in Waves for petrol vehicles older than 15 years & Diesel vehicles older than 10 years: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Waves-Modules/auction-older-vehicles
+- Auction dapp in Waves for petrol vehicles older than 15 years & Diesel vehicles older than 10 years: https://github.com/aspiringsecurity/De-Transport-Monitor/blob/main/Transport-DI-Onyx-Web3-Modules/auction-older-vehicles/readme.md
 
- # Lens and Biconomy integration
+- Bank credit dApp for Vehicle Insurance, Service & Repair using Onyx, Biconomy SDK and Web3 tools. Please 
 
-- Bank credit dApp for Vehicle Insurance, Service & Repair using Lens protocol and Biconomy SDK: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Waves-Modules/bank-Credit-vehicle-insurance-service
+ # Lens and Biconomy integration, Web3 ecosystem tools
+
+Spare Parts Lens is a Social graph for Defi. It will take user's transactions, trades, positions or any defi activity on the spare parts Defi marketplace. And Suggests users to put on social graph lens.
+
+Once transaction on lens, It will be available to everyone as a POST. POST like social post. Biconomy SDK used for perform batch txs to post data on Lens. 
+
+By making available to everyone:
+
+- Other users can discuss on that transaction/post.
+- Other users can copy that spare parts trade and create same spare parts trade for them. and post will available for them too.
+- Many more mobility and vehicle service usecases can be made by making defi open discussion platform.
+- We can create awareness about defi by showing post in a way so new web3 users can learn from it.
+
+Please visit: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Spare-Parts-Marketplace-Lens
 
 
+# zksync Era and Web3 ecosystem tools
 
-
-# zksync Era 
 -zksync Era Wallet dapp for second hand purchase of vehicles: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Waves-Modules/wallet-purchase-second-hand-vehicles
 
 - DAOs tracker tool for road incident management: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/daos-tracker-java
 
  
-# Learning
+# Learning: Visa Payments Integration and Web3 ecosystem tools
 
 - Bootstrapping Visa payment modules in Onyx Transport DAO: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication/waves-bootstrap-dev-go
 
