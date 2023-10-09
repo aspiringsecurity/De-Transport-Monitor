@@ -2,22 +2,6 @@
 
 Onyx Transport DAO is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner.
 
-# Blockchain and Web3 Ecosystem Summary
-
-Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
-
-zksync Paymasters, Onyx and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front. 
-
-Offchain interoperability with Ethereum-like blockchains. Also, the ability to use decentralized NFT voting for incident investigative systems.
-
-Ability to generate NFT and ease of identity management.
-
-We are generating an NFT for NFC tags for vehicles and spare parts at the time of service and repair workflows.
-
-Identity management, the ability to extend the solution, and reducing misinformation at the time of Incident analysis and reporting.
-
-Onyx analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
-
 Features:
 
 - 360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
@@ -141,6 +125,23 @@ Defining session keys, which are allowed to initiate service or repair transacti
 We are bootstrapping Visa payments implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We also wish to use Visa as the Web3 payments cloud computing provider.
 
 - Bootstrapping Visa payment modules in Onyx Transport DAO: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication
+
+
+# Onyx Transport DAO: Blockchain and Web3 ecosystem tools enabled features
+
+Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
+
+zksync Paymasters, Onyx and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front. 
+
+Offchain interoperability with Ethereum-like blockchains. Also, the ability to use decentralized NFT voting for incident investigative systems.
+
+Ability to generate NFT and ease of identity management.
+
+We are generating an NFT for NFC tags for vehicles and spare parts at the time of service and repair workflows.
+
+Identity management, the ability to extend the solution, and reducing misinformation at the time of Incident analysis and reporting.
+
+Onyx analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
 
 
 
