@@ -1,4 +1,4 @@
-# Auction dapp in Waves for petrol vehicles older than 15 years & Diesel vehicles older than 10 years
+# Auction dapp for petrol vehicles older than 15 years & Diesel vehicles older than 10 years
 
 This is an auction dapp for petrol vehicles older than 15 years & Diesel vehicles older than 10 years
 
