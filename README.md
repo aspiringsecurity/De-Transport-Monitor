@@ -2,21 +2,31 @@
 
 Onyx Transport DAO is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner.
 
-Presentation and Demos: https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
+# Blockchain and Web3 Ecosystem Summary
 
-Website: https://sites.google.com/view/onyx-transport-dao/home
+Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
 
-zksync Era deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
+zksync Paymasters, Onyx and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front. 
+
+Offchain interoperability with Ethereum-like blockchains. Also, the ability to use decentralized NFT voting for incident investigative systems.
+
+Ability to generate NFT and ease of identity management.
+
+We are generating an NFT for NFC tags for vehicles and spare parts at the time of service and repair workflows.
+
+Identity management, the ability to extend the solution, and reducing misinformation at the time of Incident analysis and reporting.
+
+Onyx analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
 
 Features:
 
-360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
+- 360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
 
-Real Time Analytics, alerts, streaming: Analytics of the incidents with sentiment analysis, live incident reporting. road safety eco-system. Health summary of the police staff, scheduling the staff. Reducing misinformation.
+- Real Time Analytics, alerts, streaming: Analytics of the incidents with sentiment analysis, live incident reporting. road safety eco-system. Health summary of the police staff, scheduling the staff. Reducing misinformation.
 
-Decentralized twitter like chat app for emergency help & care.
+- Decentralized twitter like chat app for emergency help & care.
 
-Incident Dashboard: Manage and track your incidents as a citizen along with sharing reviews and comments. Incident reporting, severity analytics and sentiment analysis using social media data for early stage detection and prevention of incidents.
+- Incident Dashboard: Manage and track your incidents as a citizen along with sharing reviews and comments. Incident reporting, severity analytics and sentiment analysis using social media data for early stage detection and prevention of incidents.
 
 
 Goal: Effective design, engineering, and delivery of blockchain technology-aided solutions for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation using Onyx, Biconomy, zksync Era Blockchain, Lens Protocol and Magic SDK. Tracking transport securely, transparently and cost effectively using Web3 Digital Identity eco-system tools.
@@ -25,7 +35,16 @@ Digital Identity Web3 tools to manage and enable connected vehicles for efficien
 
 Digital Identity Personas: The technical solution demonstrates capabilities which are pluggable, extendable to 4 different personas: Citizen, Police Officer, Dispatcher, Administrator
 
-Digital Identity based Capabilities:
+
+References - 
+
+Presentation and Demos: https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
+
+Website: https://sites.google.com/view/onyx-transport-dao/home
+
+zksync Era Solution deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
+
+- Digital Identity based Capabilities:
 
 1. Citizen: → Ability to create SOS: incident created automatically, added to ICM (Investigative Case management)
 
@@ -53,22 +72,6 @@ details. All of this will be recorded in central investigative case management s
 
 • Health summary of the police officer
 
-
-# Blockchain and Web3 Ecosystem
-
-Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
-
-zksync Paymasters, Onyx and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front. 
-
-Offchain interoperability with Ethereum-like blockchains. Also, the ability to use decentralized NFT voting for incident investigative systems.
-
-Ability to generate NFT and ease of identity management.
-
-We are generating an NFT for NFC tags for vehicles and spare parts at the time of service and repair workflows.
-
-Identity management, the ability to extend the solution, and reducing misinformation at the time of Incident analysis and reporting.
-
-Onyx analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
 
 # Blockchain Eco-system
 
@@ -138,6 +141,9 @@ Defining session keys, which are allowed to initiate service or repair transacti
 We are bootstrapping Visa payments implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We also wish to use Visa as the Web3 payments cloud computing provider.
 
 - Bootstrapping Visa payment modules in Onyx Transport DAO: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication
+
+
+
 
 
 
