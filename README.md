@@ -1,7 +1,41 @@
 # Onyx Transport DAO 
 
-Effective design, engineering, and delivery of blockchain technology-aided solutions for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation using Onyx, Biconomy, zksync Era Blockchain, Lens Protocol and Magic SDK.
+Goal: Effective design, engineering, and delivery of blockchain technology-aided solutions for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation using Onyx, Biconomy, zksync Era Blockchain, Lens Protocol and Magic SDK. Tracking transport securely, transparently and cost effectively using Web3 Digital Identity eco-system tools.
 
+Summary: Digital Identity Web3 tools to manage and enable connected vehicles for efficiency and sustainability, reduce fleet incidents, road accidents.  
+
+Digital Identity Personas: The technical solution demonstrates capabilities which are pluggable, extendable to 4 different personas: Citizen, Police Officer, Dispatcher, Administrator
+
+Digital Identity based Capabilities:
+
+1. Citizen: → Ability to create SOS: incident created automatically, added to ICM (Investigative Case management)
+
+→ Create incident: Can directly create an incident/ticket on different categories.
+
+→ Track the status of the incident (in progress/complete)/navigate to details of the same.
+
+→ Provide feedback/view happiness review on the same.
+
+The citizen functionalities are also made available on the mobile, which can provide live interactivity.
+
+2. Police officer: A police officer can view incidents to which s/he is assigned. the ones new, in progress and can also
+upload evidence to close the same. S/he can view the same on the map and click on details to navigate further, view details, add
+details. All of this will be recorded in central investigative case management system.
+
+3. Dispatcher (assigning cases): Video analytics brings in capabilities of what you could understand form the vehicles/license plates and identify suspicious object/issues.
+
+4. Administrator /police head: As an administrator, the police head could get complete overview of :
+
+• Analytics of the police force, citizens
+
+• Analytics of the incidents
+
+• Understand social media trends.
+
+• Health summary of the police officer
+
+
+# Blockchain and Web3 Ecosystem
 
 Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
 
@@ -19,23 +53,26 @@ Onyx analytics and aggregator tooling: investigative case management and inciden
 
 # Blockchain Eco-system
 
-# Onyx blockchain Modules
+# Onyx blockchain Modules and Magic SDK dapp module
 
-Onyx Blockchain Modules with aggregator and analytics tooling (Onyx Calc) for tabulation, organization and visualization of on-chain data: 
+- Verification and management of personas (citizen (holder), Administrator (issuer), and Dispatcher, Command and Control Center (verifier)) using Onyx SSI SDK modules: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Transport-DI-Onyx-Web3-Modules/Transport-onyx-ssi-sdk-personas
 
-Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module: Please visit 
+Onyx Blockchain Modules with aggregator and analytics tooling (Onyx Calc) for tabulation, organization and visualization of on-chain data.
+
+Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module. Onyx Calc is also used for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident in a spreadsheet type interface.
+
+- Alarm Viewer dapp using Magic SDK module:  Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. Web3 template for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock.
 
 # Onyx and Biconomy blockchain Modules and Web3 ecosystem tools
 
-- Onyx  Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions & https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/car-parts-transactions (vehicle parts verification and replacement)
+- Auction dapp for petrol vehicles older than 15 years & Diesel vehicles older than 10 years: https://github.com/aspiringsecurity/De-Transport-Monitor/blob/main/Transport-DI-Onyx-Web3-Modules/auction-older-vehicles/readme.md  
 
-- Onyx and Biconomy blockchain sync with incident database: - zksync Era Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions
+- Bank credit dApp for Vehicle Insurance, Service & Repair using Onyx, Biconomy SDK and Web3 tools. Please visit: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Transport-DI-Onyx-Web3-Modules/bank-Credit-vehicle-insurance-service
 
-  # Biconomy, Onyx blockchain module and Web3 ecosystem tools
+- Signer module for verification of transport incidents and for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control.: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions & https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/car-parts-transactions (vehicle parts verification and replacement)
 
-- Auction dapp in Waves for petrol vehicles older than 15 years & Diesel vehicles older than 10 years: https://github.com/aspiringsecurity/De-Transport-Monitor/blob/main/Transport-DI-Onyx-Web3-Modules/auction-older-vehicles/readme.md
+- Sync with incident database: - Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions
 
-- Bank credit dApp for Vehicle Insurance, Service & Repair using Onyx, Biconomy SDK and Web3 tools. Please 
 
  # Lens and Biconomy integration, Web3 ecosystem tools
 
@@ -52,17 +89,34 @@ By making available to everyone:
 
 Please visit: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Spare-Parts-Marketplace-Lens
 
+Lens Protocol and Neume: We are using Lens and neume recording audio based incidents where video is not possible to record. This will enable us to develop a socially scalable and open-source metadata retrieval, indexing, and management infrastructure for decentralized road incident management. Bandwidth is a major issue in India and neume protocol fits right at the spot for quick data retrieval where video is not possible due to high latency or unavailability of network for video streaming.
 
 # zksync Era and Web3 ecosystem tools
 
--zksync Era Wallet dapp for second hand purchase of vehicles: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Waves-Modules/wallet-purchase-second-hand-vehicles
+- zksync Paymasters: Giving free transactions to citizen developers, journalists, volunteers sharing anonymized report or incident data. This improves better outcomes for monitoring, incident reporting, precision logistics. We wish to enable 0 transaction fees for volunteers sharing anonymized report data using PyTorch or Scikit libraries.
 
-- DAOs tracker tool for road incident management: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/daos-tracker-java
+-zksync Era Wallet dapp for for handling toll ticket payments for vehicles and maintenance/service payments on top of expenses claimed for getting the requisite driving licenses. It is our go to wallet for handling interstate payments and third party payments like payments to government license regulators, repair providers: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/zksync-Web3-Modules
+
+We also plan to integrate QuickSwap with wallet to ensure that the vehicle owners or drivers can swap the tokens if needed at the time of service/repair or even getting license from regulators.
+
+- DAOs tracker tool for road incident management: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement
+
+- Account Abstraction plugins for Transport DAO using zksync Era: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
+
+Implementation areas of Account Abstraction plugins in Onyx Transport DAO: 
+
+Enforcing a spending limit for vital transport assets based on the key used for the transaction.
+
+Restricting interaction with a certain citizen wallet or DAO dApp to a specific key.
+
+Defining session keys, which are allowed to initiate service or repair transactions for only a limited period of time.
 
  
-# Learning: Visa Payments Integration and Web3 ecosystem tools
+# Visa Payments Integration and Web3 ecosystem tools
 
-- Bootstrapping Visa payment modules in Onyx Transport DAO: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication/waves-bootstrap-dev-go
+We are bootstrapping Visa payments implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We also wish to use Visa as the Web3 payments cloud computing provider.
+
+- Bootstrapping Visa payment modules in Onyx Transport DAO: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication
 
 
 
