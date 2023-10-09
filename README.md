@@ -127,7 +127,7 @@ We are bootstrapping Visa payments implementation in Typescript to connect with 
 - Bootstrapping Visa payment modules in Onyx Transport DAO: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication
 
 
-# Onyx Transport DAO: Blockchain and Web3 ecosystem tools enabled features
+# Onyx Transport DAO: Blockchain and Web3 ecosystem tools enabled user security, payments and on-chain analytics
 
 Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
 
@@ -142,7 +142,6 @@ We are generating an NFT for NFC tags for vehicles and spare parts at the time o
 Identity management, the ability to extend the solution, and reducing misinformation at the time of Incident analysis and reporting.
 
 Onyx analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
-
 
 
 
