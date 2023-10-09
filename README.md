@@ -1,8 +1,21 @@
 # Onyx Transport DAO 
 
+Onyx Transport DAO is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner.
+
+Features:
+
+360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
+
+Real Time Analytics, alerts, streaming: Analytics of the incidents with sentiment analysis, live incident reporting. road safety eco-system. Health summary of the police staff, scheduling the staff. Reducing misinformation.
+
+Decentralized twitter like chat app for emergency help & care.
+
+Incident Dashboard: Manage and track your incidents as a citizen along with sharing reviews and comments. Incident reporting, severity analytics and sentiment analysis using social media data for early stage detection and prevention of incidents.
+
+
 Goal: Effective design, engineering, and delivery of blockchain technology-aided solutions for vehicles and citizens to make roads safer and better for everyone using predictive analytics and automation using Onyx, Biconomy, zksync Era Blockchain, Lens Protocol and Magic SDK. Tracking transport securely, transparently and cost effectively using Web3 Digital Identity eco-system tools.
 
-Summary: Digital Identity Web3 tools to manage and enable connected vehicles for efficiency and sustainability, reduce fleet incidents, road accidents.  
+Digital Identity Web3 tools to manage and enable connected vehicles for efficiency and sustainability, reduce fleet incidents, road accidents.  
 
 Digital Identity Personas: The technical solution demonstrates capabilities which are pluggable, extendable to 4 different personas: Citizen, Police Officer, Dispatcher, Administrator
 
