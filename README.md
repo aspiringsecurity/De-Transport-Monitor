@@ -24,7 +24,7 @@ References -
 
 Presentation and Demos: https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
-Website: https://sites.google.com/view/onyx-transport-dao/home
+Website for Civic Bodies, End-users: https://sites.google.com/view/onyx-transport-dao/home
 
 zksync Era Solution deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
 
