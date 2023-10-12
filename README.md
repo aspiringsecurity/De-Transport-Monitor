@@ -59,15 +59,17 @@ details. All of this will be recorded in central investigative case management s
 
 # Blockchain Eco-system
 
-# Onyx blockchain Modules and Magic SDK dapp module
+# Onyx blockchain Modules & Magic SDK dapp module
 
 - Verification and management of personas (citizen (holder), Administrator (issuer), and Dispatcher, Command and Control Center (verifier)) using Onyx SSI SDK modules: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Transport-DI-Onyx-Web3-Modules/Transport-onyx-ssi-sdk-personas
 
+- Please visit the demos at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
+
 Onyx Blockchain Modules with aggregator and analytics tooling (Onyx Calc) for tabulation, organization and visualization of on-chain data.
 
-Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module. Onyx Calc is also used for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident in a spreadsheet type interface.
+Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module. Onyx Calc is also used for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident in a spreadsheet type interface. Please visit demos at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
-- Alarm Viewer dapp using Magic SDK module:  Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. Web3 template for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock.
+- Alarm Viewer dapp using Magic SDK module:  Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. Web3 template for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. Please visit Demo 3 at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
 # Onyx and Biconomy blockchain Modules & Web3 ecosystem tools
 
@@ -77,7 +79,7 @@ Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) 
 
 - Signer module for verification of transport incidents and for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control.: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions & https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/car-parts-transactions (vehicle parts verification and replacement)
 
-- Sync with incident database: - Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions
+- Sync with incident database: - Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions . Please visit Demo 1 at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
 
  # Lens and Biconomy integration, Web3 ecosystem tools
@@ -97,6 +99,8 @@ Please visit: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main
 
 Lens Protocol and Neume: We are using Lens and neume recording audio based incidents where video is not possible to record. This will enable us to develop a socially scalable and open-source metadata retrieval, indexing, and management infrastructure for decentralized road incident management. Bandwidth is a major issue in India and neume protocol fits right at the spot for quick data retrieval where video is not possible due to high latency or unavailability of network for video streaming.
 
+Please visit Demo 3 at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
+
 # zksync Era and Web3 ecosystem tools
 
 - zksync Paymasters: Giving free transactions to citizen developers, journalists, volunteers sharing anonymized report or incident data. This improves better outcomes for monitoring, incident reporting, precision logistics. We wish to enable 0 transaction fees for volunteers sharing anonymized report data using PyTorch or Scikit libraries.
@@ -110,6 +114,8 @@ We also plan to integrate QuickSwap with wallet to ensure that the vehicle owner
 - Account Abstraction plugins for Transport DAO using zksync Era: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
 
   zksync era deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
+
+  Please visit Demo 1 and 4 at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
 Implementation areas of Account Abstraction plugins in Onyx Transport DAO: 
 
@@ -125,6 +131,8 @@ Defining session keys, which are allowed to initiate service or repair transacti
 We are bootstrapping Visa payments implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We also wish to use Visa as the Web3 payments cloud computing provider.
 
 - Bootstrapping Visa payment modules in Onyx Transport DAO: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Android_MobileApplication
+
+- Please visit demos at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV (Demo 1 and Demo 4)
 
 
 # Onyx Transport DAO: Blockchain and Web3 ecosystem tools enabled user security, payments and on-chain analytics
