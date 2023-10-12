@@ -28,7 +28,7 @@ Website for Civic Bodies, End-users: https://sites.google.com/view/onyx-transpor
 
 zksync Era Solution deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
 
-- Digital Identity based Capabilities:
+- Digital Identity based Capabilities: Please visit the pdf file: Brief DI Architecture - Onyx Digital Identity, Personas and Capabilities at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV 
 
 1. Citizen: → Ability to create SOS: incident created automatically, added to ICM (Investigative Case management)
 
@@ -63,7 +63,7 @@ details. All of this will be recorded in central investigative case management s
 
 - Verification and management of personas (citizen (holder), Administrator (issuer), and Dispatcher, Command and Control Center (verifier)) using Onyx SSI SDK modules: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Transport-DI-Onyx-Web3-Modules/Transport-onyx-ssi-sdk-personas
 
-- Please visit the demos at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
+- Please visit the demos and the presentation ( pdf file: Brief DI Architecture - Onyx Digital Identity, Personas and Capabilities )at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV 
 
 Onyx Blockchain Modules with aggregator and analytics tooling (Onyx Calc) for tabulation, organization and visualization of on-chain data.
 
