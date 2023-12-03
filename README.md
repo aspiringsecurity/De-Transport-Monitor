@@ -1,6 +1,6 @@
-# Transport DAO 
+# DID Transport DAO 
 
-Transport DAO is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner.
+DID Transport DAO is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner.
 
 Features:
 
