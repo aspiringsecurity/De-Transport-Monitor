@@ -59,19 +59,19 @@ details. All of this will be recorded in central investigative case management s
 
 # Blockchain Eco-system
 
-# Onyx blockchain Modules & Magic SDK dapp module
+# DID, TBD, Polygon ID, Ontology blockchain Modules & Magic SDK dapp module
 
-- Verification and management of personas (citizen (holder), Administrator (issuer), and Dispatcher, Command and Control Center (verifier)) using Onyx SSI SDK modules: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Transport-DI-Onyx-Web3-Modules/Transport-onyx-ssi-sdk-personas
+- Verification and management of personas (citizen (holder), Administrator (issuer), and Dispatcher, Command and Control Center (verifier)) using DID and SSI SDK modules: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/Transport-DI-Onyx-Web3-Modules/Transport-onyx-ssi-sdk-personas
 
-- Please visit the demos and the presentation ( pdf file: Brief DI Architecture - Onyx Digital Identity, Personas and Capabilities )at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV 
+- Please visit the demos and the presentation ( pdf file: Brief DID Architecture - DID Digital Identity, Personas and Capabilities )at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV 
 
-Onyx Blockchain Modules with aggregator and analytics tooling (Onyx Calc) for tabulation, organization and visualization of on-chain data.
+DID and TBD Blockchain Modules with aggregator and analytics tooling (DID Calc) for tabulation, organization and visualization of on-chain data.
 
-Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module. Onyx Calc is also used for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident in a spreadsheet type interface. Please visit demos at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
+DID Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module. Onyx Calc is also used for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident in a spreadsheet type interface. Please visit demos at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
 - Alarm Viewer dapp using Magic SDK module:  Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. Web3 template for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. Please visit Demo 3 at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
-# Onyx and Biconomy blockchain Modules & Web3 ecosystem tools
+# DID, Trinsic and Biconomy blockchain Modules & Web3 ecosystem tools
 
 - Auction dapp for petrol vehicles older than 15 years & Diesel vehicles older than 10 years: https://github.com/aspiringsecurity/De-Transport-Monitor/blob/main/Transport-DI-Onyx-Web3-Modules/auction-older-vehicles/readme.md  
 
@@ -82,7 +82,7 @@ Onyx Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) 
 - Sync with incident database: - Signer module for verification of transport incidents: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement/signer-waves-transactions . Please visit Demo 1 at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
 
- # Lens and Biconomy integration, Web3 ecosystem tools
+ # DID, TBD, Lens and Biconomy integration, Polygon ID, Web3 ecosystem tools
 
 Spare Parts Lens is a Social graph for Defi. It will take user's transactions, trades, positions or any defi activity on the spare parts Defi marketplace. And Suggests users to put on social graph lens.
 
@@ -101,17 +101,17 @@ Lens Protocol and Neume: We are using Lens and neume recording audio based incid
 
 Please visit Demo 3 at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
-# zksync Era and Web3 ecosystem tools
+# zksync Era and TBD, DID Web3 ecosystem tools
 
-- zksync Paymasters: Giving free transactions to citizen developers, journalists, volunteers sharing anonymized report or incident data. This improves better outcomes for monitoring, incident reporting, precision logistics. We wish to enable 0 transaction fees for volunteers sharing anonymized report data using PyTorch or Scikit libraries.
+- DID and zksync Paymasters: Giving free transactions to citizen developers, journalists, volunteers sharing anonymized report or incident data. This improves better outcomes for monitoring, incident reporting, precision logistics. We wish to enable 0 transaction fees for volunteers sharing anonymized report data using PyTorch or Scikit libraries.
 
--zksync Era Wallet dapp for for handling toll ticket payments for vehicles and maintenance/service payments on top of expenses claimed for getting the requisite driving licenses. It is our go to wallet for handling interstate payments and third party payments like payments to government license regulators, repair providers: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/zksync-Web3-Modules
+-DID and zksync Era Wallet dapp for for handling toll ticket payments for vehicles and maintenance/service payments on top of expenses claimed for getting the requisite driving licenses. It is our go to wallet for handling interstate payments and third party payments like payments to government license regulators, repair providers: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/zksync-Web3-Modules
 
 We also plan to integrate QuickSwap with wallet to ensure that the vehicle owners or drivers can swap the tokens if needed at the time of service/repair or even getting license from regulators.
 
 - DAOs tracker tool for road incident management: https://github.com/aspiringsecurity/De-Transport-Monitor/tree/main/electronicincidentmanagement
 
-- Account Abstraction plugins for Transport DAO using zksync Era: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
+- Account Abstraction plugins for DID Transport DAO using zksync Era: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
 
   zksync era deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
 
@@ -126,7 +126,7 @@ Restricting interaction with a certain citizen wallet or DAO dApp to a specific 
 Defining session keys, which are allowed to initiate service or repair transactions for only a limited period of time.
 
  
-# Visa Payments Integration and Web3 ecosystem tools
+# DID wallet and Visa Payments Integration and Web3 ecosystem tools
 
 We are bootstrapping Visa payments implementation in Typescript to connect with our ionic apps which uses typescript as the core for handling application logic. We also wish to use Visa as the Web3 payments cloud computing provider.
 
@@ -135,11 +135,11 @@ We are bootstrapping Visa payments implementation in Typescript to connect with 
 - Please visit demos at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV (Demo 1 and Demo 4)
 
 
-# Onyx Transport DAO: Blockchain and Web3 ecosystem tools enabled user security, payments and on-chain analytics
+# DID Transport DAO: Blockchain and Web3 ecosystem tools enabled user security, payments and on-chain analytics
 
-Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
+DID, TBD, Ontology, Trinsic and PolygonID; Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK: We are using Onyx, Biconomy, zksync Era Smart Contracts, Lens Protocol and Magic SDK for solving multiple challenges in investigative case management of road incidents for the admin role: sentiment analysis of a particular road incident for the admin role, social media text mining for a road incident and classification and severity of the incidents, early-stage incident response and prevention.
 
-zksync Paymasters, Onyx and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front. 
+zksync Paymasters, TBD and Biconomy SDK enable us to have a DAO infrastructure with minimal gas fees. That is very important both from the privacy and cost-effectiveness front. 
 
 Offchain interoperability with Ethereum-like blockchains. Also, the ability to use decentralized NFT voting for incident investigative systems.
 
@@ -149,7 +149,7 @@ We are generating an NFT for NFC tags for vehicles and spare parts at the time o
 
 Identity management, the ability to extend the solution, and reducing misinformation at the time of Incident analysis and reporting.
 
-Onyx analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
+TBD analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
 
 
 
