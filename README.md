@@ -2,6 +2,8 @@
 
 DID Transport DAO is an analytics and incident management platform for citizens, police officers, drivers to report and manage incidents, detect and prevent accidents on web, mobile in a secure and simplified manner.
 
+DID and TBD Solution deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
+
 Features:
 
 - 360 degrees access: Command and control centers can manage the complete lifecycle of incident reporting, overall status, enable early stage prevention of accidents and road safety counseling, management of workforce at the incident site.
@@ -22,11 +24,11 @@ Digital Identity Personas: The technical solution demonstrates capabilities whic
 
 References - 
 
+DID and TBD Solution deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
+
 Presentation and Demos: https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV
 
 Website for Civic Bodies, End-users: https://sites.google.com/view/onyx-transport-dao/home
-
-zksync Era Solution deployment at Vercel: https://aspiring-road-safety-zksync-deploy.vercel.app/
 
 - Digital Identity based Capabilities: Please visit the pdf file: Brief DI Architecture - Onyx Digital Identity, Personas and Capabilities at https://drive.google.com/drive/u/1/folders/12pzP2fGs5B8tYVtn2qojLHSUREPPCaqV 
 
