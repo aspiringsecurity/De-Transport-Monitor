@@ -151,7 +151,7 @@ We are generating an NFT for NFC tags for vehicles and spare parts at the time o
 
 Identity management, the ability to extend the solution, and reducing misinformation at the time of Incident analysis and reporting.
 
-TBD analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the Onyx blockchain.
+TBD analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting at the TBD blockchain.
 
 
 
